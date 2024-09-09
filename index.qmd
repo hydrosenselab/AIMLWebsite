@@ -1,0 +1,53 @@
+# Artificial Intelligence and Machine Learning
+
+Training Course at IIT Delhi under the aegis of the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
+
+<img src="hero-image.jpg" alt="Hero Image" width="100%"/>
+
+The "AI/ML for Industry" is a flagship training program offered by faculty members of the Indian Institute of Technology Delhi. The course is offered in multiple variants:
+
+- [6-month e-Vidya CEP Certificate](./evidya-certificate.qmd) (Weekend Classes for Industry Professionals)
+- [3-Day or 5-Day Sponsored Training Program](./sponsored.qmd) (Government Agency or Company)
+- [3-Day Bootcamp](./bootcamp.qmd)(for Beginners)
+
+The course provides a deep understanding of AI and ML techniques and their real-world applications. This program equips participants with the skills needed to apply AI/ML in business and industry.
+
+## Program Highlights
+
+-   **Comprehensive Curriculum**: Covering everything from AI basics to advanced deep learning.
+-   **Hands-on Projects**: Real-world case studies and projects.
+-   **Expert Faculty**: Delivered by renowned faculty and industry experts.
+-   **Flexible Learning**: Designed for working professionals.
+
+Explore the course types and past editions from the menu above to learn more about each module.
+
+------------------------------------------------------------------------
+
+### Program Coordinators:
+
+<img src="images/sandeep.png" alt="Sandeep Kumar Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;"/>
+
+<h3>Dr. Sandeep Kumar</h3>
+
+<p><strong>Designation</strong>: Assistant Professor, Department of Electrical Engineering & Yardi School of Artificial Intelligence, IIT Delhi</p>
+
+<p><strong>Contact</strong>: contact\@example.com</p>
+
+<p>Dr. Sandeep Kumar is an assistant professor at IIT Delhi, with research focus on machine learning, graphical models, and statistics.</p>
+
+::: {style="clear: both;"}
+:::
+
+<img src="images/msaharia.jpg" alt="Manabendra Saharia Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;"/>
+
+<h3>Dr. Manabendra Saharia</h3>
+
+<p><strong>Designation</strong>: Assistant Professor, Department of Civil Engineering & Yardi School of Artificial Intelligence, IIT Delhi</p>
+
+<p><strong>Contact</strong>: msaharia\@iitd.ac.in</p>
+
+<p>Dr. Manabendra Saharia leads the HydroSense lab, focusing on AI/ML techniques for natural hazards monitoring.</p>
+
+::: {style="clear: both;"}
+:::
+<img src="iit-delhi-logo.png" alt="IIT Delhi Logo" style="float: right; width: 100px; margin-top: 10px;">

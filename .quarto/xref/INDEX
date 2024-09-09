@@ -1,0 +1,77 @@
+{
+  "about.qmd": {
+    "about.html": "689a4f1a"
+  },
+  "index.qmd": {
+    "index.html": "14e6803d"
+  },
+  "team.qmd": {
+    "team.html": "920a3e55"
+  },
+  "certificate-batch02.qmd": {
+    "certificate-batch02.html": "3fb90999"
+  },
+  "certificate-batch03.qmd": {
+    "certificate-batch03.html": "d6b470cd"
+  },
+  "certificate-batch01.qmd": {
+    "certificate-batch01.html": "cc2da710"
+  },
+  "six-month-certificate.qmd": {
+    "six-month-certificate.html": "fcec1a01"
+  },
+  "cris.qmd": {
+    "cris.html": "a00dabf8"
+  },
+  "course-6month.qmd": {
+    "course-6month.html": "c5aab694"
+  },
+  "bootcamp.qmd": {
+    "bootcamp.html": "a02e145a"
+  },
+  "evidya-certificate.qmd": {
+    "evidya-certificate.html": "093ea70b"
+  },
+  "course-sponsored.qmd": {
+    "course-sponsored.html": "7800b0c4"
+  },
+  "sponsored.qmd": {
+    "sponsored.html": "70d091f1"
+  },
+  "cag.qmd": {
+    "cag.html": "22a48371"
+  },
+  "edition-2024-cris.qmd": {
+    "edition-2024-cris.html": "c6c07069"
+  },
+  "contact.qmd": {
+    "contact.html": "e3be7777"
+  },
+  "edition-2023-batch01.qmd": {
+    "edition-2023-batch01.html": "9fad1d41"
+  },
+  "course-bootcamp.qmd": {
+    "course-bootcamp.html": "e1cf8c35"
+  },
+  "bootcamp-2023.qmd": {
+    "bootcamp-2023.html": "f841fbfb"
+  },
+  "edition-2024-batch03.qmd": {
+    "edition-2024-batch03.html": "87596725"
+  },
+  "edition-2024-batch02.qmd": {
+    "edition-2024-batch02.html": "4c285c6a"
+  },
+  "edition-2023-bootcamp.qmd": {
+    "edition-2023-bootcamp.html": "f7162e80"
+  },
+  "edition-2024-cag.qmd": {
+    "edition-2024-cag.html": "5277c6dc"
+  },
+  "resources.qmd": {
+    "resources.html": "12a85e2f"
+  },
+  "content.qmd": {
+    "content.html": "8681b7e4"
+  }
+}

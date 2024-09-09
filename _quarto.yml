@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "AI/ML for Industry"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Course Types"
+        menu:
+          - text: "6-month Certificate Course"
+            href: evidya-certificate.qmd
+          - text: "3-Day Bootcamp"
+            href: bootcamp.qmd
+          - text: "Sponsored Programme"
+            href: sponsored.qmd
+      - text: "Course Editions"
+        menu:
+          - text: "6-Month Certificate Course [2024, Batch 03]"
+            href: certificate-batch03.qmd
+          - text: "5-Day Programme for CAG/IAAS Officers [2024]"
+            href: cag.qmd
+          - text: "5-Day Programme for CRIS Engineers [2024]"
+            href: cris.qmd
+          - text: "6-Month Certificate Course [2024, Batch 02]"
+            href: certificate-batch02.qmd
+          - text: "3-Day AI/ML Bootcamp [2023]"
+            href: bootcamp-2023.qmd
+          - text: "6-Month Certificate Course [2023, Batch 01]"
+            href: certificate-batch01.qmd
+      - text: "Course Content"
+        href: content.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Contact"
+        href: contact.qmd
+    search: false
+
+format:
+  html:
+    theme: superhero
