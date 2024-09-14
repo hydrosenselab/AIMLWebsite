@@ -10,7 +10,7 @@ website:
       - text: "Course Types"
         menu:
           - text: "6-month Certificate Course"
-            href: evidya-certificate.qmd
+            href: 'aiml-6-months-iitd-certificate.qmd'  
           - text: "3-Day Bootcamp"
             href: bootcamp.qmd
           - text: "Sponsored Programme"

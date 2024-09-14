@@ -229,5 +229,26 @@
     "title": "Course Content",
     "section": "Extra Topics",
     "text": "Extra Topics\n\nTransformers\n• Concept of Transformers and its Application to NLP\n\n\nGenerative AI\n• Introduction to Generative AI and LLM Models Project: Deep Learning Application"
+  },
+  {
+    "objectID": "aiml-6-months-iitd-certificate.html",
+    "href": "aiml-6-months-iitd-certificate.html",
+    "title": "Sponsored Programme",
+    "section": "",
+    "text": "Details about the sponsored programme."
+  },
+  {
+    "objectID": "content.html#module-2-regression-methods",
+    "href": "content.html#module-2-regression-methods",
+    "title": "Course Content",
+    "section": "Module 2: Regression Methods",
+    "text": "Module 2: Regression Methods\n• Simple and Multiple Linear Regression\n• Hands-on Demo 2: SLR/MLR\n• Least Squares Approach\n• Moving Beyond Linearity: Non-linear Regression\n• Hands-on Demo 3: NLR\n• Model Selection, Regularisation, and Bias-Variance Trade-off"
+  },
+  {
+    "objectID": "content.html#module-3-classification-methods",
+    "href": "content.html#module-3-classification-methods",
+    "title": "Course Content",
+    "section": "Module 3: Classification Methods",
+    "text": "Module 3: Classification Methods\n\nLogsitic Regression\n• Logistic Regression • Hands-on Demo 4: Logistic Regression\n\n\nDecision Tree\n• Introduction to Decision Trees\n• Random Forests, Bagging, and Boosting\n• Hands-on Demo 5: Random Forests\n• Interpretability of Machine Learning Models\n• Hyperplanes\n• Concept of Hyperplane Classifier\n\n\nSVM\n• Support Vector Machines, Kernel SVM • Hands-on Demo 6: SVM\n• Multi-class Classifiers\n\n\nClustering\n• Clustering Methods\n• Hands-on Demo 7: Clustering"
   }
 ]
