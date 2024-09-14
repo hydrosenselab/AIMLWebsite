@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "AI/ML for Industry"
+  title: "AI/ML for Industry [Training Program@IIT Delhi]"
   navbar:
     right:
       - text: "Home"

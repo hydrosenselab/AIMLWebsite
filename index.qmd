@@ -1,6 +1,6 @@
 # Artificial Intelligence and Machine Learning
 
-Training Course at IIT Delhi under the aegis of the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
+### Training program under the aegis of the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
 
 <img src="images/aiml-brochure-image.png" alt="Hero Image" width="100%"/>
 
@@ -11,6 +11,8 @@ The "AI/ML for Industry" is a flagship training program offered by faculty membe
 - [3-Day Bootcamp](./bootcamp.qmd)(for Beginners)
 
 The course provides a deep understanding of AI and ML techniques and their real-world applications. This program equips participants with the skills needed to apply AI/ML in business and industry.
+
+If a sponsored program is required tailored to your organization's needs, please email the course coordinators with details. 
 
 ## Program Highlights
 
@@ -31,7 +33,7 @@ Explore the course types and past editions from the menu above to learn more abo
 
 <p><strong>Designation</strong>: Assistant Professor, Department of Electrical Engineering & Yardi School of Artificial Intelligence, IIT Delhi</p>
 
-<p><strong>Contact</strong>: contact\@example.com</p>
+<p><strong>Contact</strong>: sandeep\@iitd.ac.in</p>
 
 <p>Dr. Sandeep Kumar is an assistant professor at IIT Delhi, with research focus on machine learning, graphical models, and statistics.</p>
 
