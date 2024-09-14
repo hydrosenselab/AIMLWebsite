@@ -1,7 +1,5 @@
-# Artificial Intelligence and Machine Learning
-
-### A training program offered through the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
-
+## Artificial Intelligence and Machine Learning for Industry
+##### A training program offered through the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
 <img src="images/aiml-brochure-image.png" alt="Hero Image" width="100%"/>
 
 The "AI/ML for Industry" is a flagship training program offered by faculty members of the Indian Institute of Technology Delhi. The course is offered in multiple variants:
@@ -21,11 +19,11 @@ The course provides a deep understanding of AI and ML techniques and their real-
 
 Explore the course types and past editions from the menu above to learn more about each module.
 
-------------------------------------------------------------------------
-<div class="alert alert-dismissible alert-light"> If you desire a sponsored program tailored to your organization’s needs, please email the program coordinators. In the past, we have delivered tailored programs for organizations such as Officers of Comptroller and Auditor General of India (CAG) and Centre For Railway Information Systems (CRIS).</div>
+
+<div class="alert alert-dismissible alert-light"> If you desire a sponsored program tailored to your organization’s needs, please email the program coordinators to discuss feasibility. In the past, we have delivered tailored programs for organizations such as Officers of Comptroller and Auditor General of India (CAG) and Centre For Railway Information Systems (CRIS).</div>
 
 
-### Program Coordinators:
+## Program Coordinators
 
 <img src="images/sandeep.png" alt="Sandeep Kumar Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;"/>
 
