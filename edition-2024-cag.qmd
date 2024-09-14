@@ -4,4 +4,4 @@ title: "5-Day Programme for CAG/IAAS Officers [2024]"
 
 Details about the 5-day programme for CAG/IAAS Officers in 2024.
 
-![Program Completion Photo for CAG/IAAS Officers](/images/cag2024.jpeg)
+![Program Completion Photo for CAG/IAAS Officers](/images/cag2024.jpeg){.lightbox}
