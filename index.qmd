@@ -1,18 +1,16 @@
 # Artificial Intelligence and Machine Learning
 
-### Training program under the aegis of the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
+### A training program offered through the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
 
 <img src="images/aiml-brochure-image.png" alt="Hero Image" width="100%"/>
 
 The "AI/ML for Industry" is a flagship training program offered by faculty members of the Indian Institute of Technology Delhi. The course is offered in multiple variants:
 
 - [6-month e-Vidya CEP Certificate](./aiml-6-months-iitd-certificate.qmd) (Weekend Classes for Industry Professionals)
-- [3-Day or 5-Day Sponsored Training Program](./sponsored.qmd) (Government Agency or Company)
-- [3-Day Bootcamp](./bootcamp.qmd)(for Beginners)
+- [3-Day or 5-Day Sponsored Training Program](./sponsored.qmd) (Sponsored by Government Agency or Company)
+- [3-Day Bootcamp](./bootcamp.qmd) (For Beginners)
 
 The course provides a deep understanding of AI and ML techniques and their real-world applications. This program equips participants with the skills needed to apply AI/ML in business and industry.
-
-If a sponsored program is required tailored to your organization's needs, please email the course coordinators with details. 
 
 ## Program Highlights
 
@@ -24,6 +22,8 @@ If a sponsored program is required tailored to your organization's needs, please
 Explore the course types and past editions from the menu above to learn more about each module.
 
 ------------------------------------------------------------------------
+<div class="alert alert-dismissible alert-light"> If you desire a sponsored program tailored to your organization’s needs, please email the program coordinators. In the past, we have delivered tailored programs for organizations such as Officers of Comptroller and Auditor General of India (CAG) and Centre For Railway Information Systems (CRIS).</div>
+
 
 ### Program Coordinators:
 
