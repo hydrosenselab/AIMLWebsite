@@ -1,5 +1,0 @@
----
-title: "5-Day Programme for CRIS Engineers"
----
-
-Details about the 5-day programme for CRIS Engineers.

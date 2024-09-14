@@ -2,7 +2,7 @@
 ##### A training program offered through the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
 <img src="images/aiml-brochure-image.png" alt="Hero Image" width="100%"/>
 
-The "AI/ML for Industry" is a flagship training program offered by faculty members of the Indian Institute of Technology Delhi. The course is offered in multiple variants:
+The "AI/ML for Industry" is a flagship training program offered by faculty members of the Indian Institute of Technology Delhi through the [Continuing Education Programme](https://cepqip.iitd.ac.in/qip/). The course is offered in multiple variants:
 
 - [6-month e-Vidya CEP Certificate](./aiml-6-months-iitd-certificate.qmd) (Weekend Classes for Industry Professionals)
 - [3-Day or 5-Day Sponsored Training Program](./sponsored.qmd) (Sponsored by Government Agency or Company)
@@ -11,7 +11,7 @@ The "AI/ML for Industry" is a flagship training program offered by faculty membe
 The course provides a deep understanding of AI and ML techniques and their real-world applications. This program equips participants with the skills needed to apply AI/ML in business and industry.
 
 
-<div class="alert alert-dismissible alert-secondary"> If you desire a sponsored program tailored to your organization’s needs, please email the program coordinators to discuss feasibility. In the past, we have delivered tailored programs for organizations such as [Comptroller and Auditor General of India (CAG/IAAS Officers)](cag.qmd) and [Centre For Railway Information Systems (CRIS) Engineers](cris.qmd). </div>
+<div class="alert alert-dismissible alert-secondary"> If you desire a sponsored program tailored to your organization’s needs, please email the program coordinators to discuss feasibility. In the past, we have delivered tailored programs for organizations such as [Comptroller and Auditor General of India (CAG/IAAS Officers)](cag.qmd), [Centre For Railway Information Systems (CRIS) Engineers](cris.qmd), and [Young Presidents' Organization (YPO)](ypo.qmd) </div>
 
 
 ## Program Highlights
