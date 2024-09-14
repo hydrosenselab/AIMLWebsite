@@ -2,6 +2,30 @@
 title: "Contact"
 ---
 
-# Contact Us
+For more information, reach out to us via email.
 
-For more information, reach out to us via [email](mailto:info@example.com).
+
+## Program Coordinators
+
+<img src="images/sandeep.png" alt="Sandeep Kumar Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;"/>
+
+<h3>Dr. Sandeep Kumar</h3>
+
+<p><strong>Designation</strong>: Assistant Professor, Department of Electrical Engineering & Yardi School of Artificial Intelligence, IIT Delhi</p>
+
+<p><strong>Contact</strong>: sandeep\@iitd.ac.in</p>
+
+::: {style="clear: both;"}
+:::
+
+<img src="images/msaharia.jpg" alt="Manabendra Saharia Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;"/>
+
+<h3>Dr. Manabendra Saharia</h3>
+
+<p><strong>Designation</strong>: Assistant Professor, Department of Civil Engineering & Yardi School of Artificial Intelligence, IIT Delhi</p>
+
+<p><strong>Contact</strong>: msaharia\@iitd.ac.in</p>
+
+::: {style="clear: both;"}
+:::
+<img src="iit-delhi-logo.png" alt="IIT Delhi Logo" style="float: right; width: 100px; margin-top: 10px;">
