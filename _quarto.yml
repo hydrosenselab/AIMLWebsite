@@ -11,10 +11,10 @@ website:
         menu:
           - text: "6-month Certificate Course"
             href: 'aiml-6-months-iitd-certificate.qmd'  
-          - text: "3-Day Bootcamp"
-            href: bootcamp.qmd
           - text: "Sponsored Programme"
             href: sponsored.qmd
+          - text: "3-Day Bootcamp"
+            href: bootcamp.qmd
       - text: "Course Editions"
         menu:
           - text: "6-Month Certificate Course [2024, Batch 03]"
