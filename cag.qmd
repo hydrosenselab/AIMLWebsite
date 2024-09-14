@@ -3,3 +3,5 @@ title: "5-Day Programme for CAG/IAAS Officers"
 ---
 
 Details about the 5-day programme for CAG/IAAS Officers in 2024.
+
+![CAG/IAAS 2024 Officers Training Program at IIT Delhi](images/cag2024.jpeg){.lightbox}
