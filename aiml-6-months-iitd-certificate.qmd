@@ -1,5 +1,115 @@
 ---
-title: "Sponsored Programme"
+title: "6-Month Program - AI/ML for Industry"
 ---
 
 Details about the sponsored programme.
+
+# Course Content
+
+
+## Module 1: Mathematical Foundations for AI/ML
+
+### Linear Algebra for ML
+
+    • Vectors and Matrices
+    • Vector Space and Subspace
+    • System of Linear Equations
+    • The Concept of Rank and Independent Vectors
+    • Inner Product Space
+    • Norms
+    • Positive Definite Matrix
+    • Matrix Factorisation (EVD, SVD, QR, LR, etc.)
+    • Projection and Orthogonality
+
+### Probability and Statistics for Data Science
+    • Random Variables
+    • Distribution and Density Functions
+    • Conditional Probability
+    • Bayes'Theorem
+    • Joint Distribution
+    • Concept of Independence Covariance and Correlation
+    • Introductory Statistical Inference (Likelihood, MAP, etc.)
+    • Concept of Entropy
+    • Mutual Information and KL Divergence
+
+### Optimization
+    • Optimization
+    • Function and Derivatives
+    • Gradient Descent
+    • Stochastic Gradient Descents
+    • Convex Optimisation
+    • Formulation and Optimality Conditions
+    • ADAM Optimiser
+
+### Hands-on Demo 1: Linear Algebra using NumPy
+    • Concepts of Linear Algebra and Probability Basics
+    • Optimisation with Practical ML Applications
+
+
+---
+
+## Module 2: Regression Methods
+
+    • Simple and Multiple Linear Regression
+    • Hands-on Demo 2: SLR/MLR
+    • Least Squares Approach
+    • Moving Beyond Linearity: Non-linear Regression
+    • Hands-on Demo 3: NLR
+    • Model Selection, Regularisation, and Bias-Variance Trade-off
+
+---
+
+## Module 3: Classification Methods
+
+### Logsitic Regression
+• Logistic Regression
+• Hands-on Demo 4: Logistic Regression
+
+### Decision Tree
+    • Introduction to Decision Trees
+    • Random Forests, Bagging, and Boosting
+    • Hands-on Demo 5: Random Forests
+    • Interpretability of Machine Learning Models
+    • Hyperplanes
+    • Concept of Hyperplane Classifier
+
+### SVM
+    • Support Vector Machines, Kernel SVM • Hands-on Demo 6: SVM
+    • Multi-class Classifiers
+
+### Clustering
+    • Clustering Methods
+    • Hands-on Demo 7: Clustering
+
+---
+
+## Module 4: Deep Learning
+### Neural Networks
+    • Fundamentals of Neural Network and Feedforward Network 
+    • Concept of Training and Backpropagation
+    • Hands-on Demo 8: ANN
+
+### Convolutional Neural Networks
+    • Fundamentals of Convolution
+    • Convolutional Neural Network Architecture 
+    • Hands-on Demo 9: CNN
+
+### Recurrent Neural Networks/LSTM
+    • Introduction to Time Series and Sequential Data 
+    • Introduction to Language Modelling and NLP
+    • Recurrent Neural Network and LSTM/GRU
+    • Hands-on Demo 10
+### Graph Neural Networks
+    • Introduction to Graph Data
+    • Graph Neural Network Architecture
+    • Hands-on Demo 11
+
+---
+
+## Extra Topics
+
+### Transformers
+    • Concept of Transformers and its Application to NLP
+
+### Generative AI
+    • Introduction to Generative AI and LLM Models Project: Deep Learning Application

@@ -29,8 +29,6 @@ website:
             href: bootcamp-2023.qmd
           - text: "6-Month Certificate Course [2023, Batch 01]"
             href: certificate-batch01.qmd
-      - text: "Course Content"
-        href: content.qmd
       - text: "Team"
         href: team.qmd
       - text: "Contact"
