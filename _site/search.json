@@ -30,42 +30,42 @@
   {
     "objectID": "aiml-6-months-iitd-certificate.html",
     "href": "aiml-6-months-iitd-certificate.html",
-    "title": "6-Month Program - AI/ML for Industry",
+    "title": "6-Months Program - AI/ML for Industry",
     "section": "",
-    "text": "Details about the sponsored programme."
+    "text": "Registration Link and details about the programme"
   },
   {
     "objectID": "aiml-6-months-iitd-certificate.html#module-1-mathematical-foundations-for-aiml",
     "href": "aiml-6-months-iitd-certificate.html#module-1-mathematical-foundations-for-aiml",
-    "title": "6-Month Program - AI/ML for Industry",
+    "title": "6-Months Program - AI/ML for Industry",
     "section": "Module 1: Mathematical Foundations for AI/ML",
     "text": "Module 1: Mathematical Foundations for AI/ML\n\nLinear Algebra for ML\n• Vectors and Matrices\n• Vector Space and Subspace\n• System of Linear Equations\n• The Concept of Rank and Independent Vectors\n• Inner Product Space\n• Norms\n• Positive Definite Matrix\n• Matrix Factorisation (EVD, SVD, QR, LR, etc.)\n• Projection and Orthogonality\n\n\nProbability and Statistics for Data Science\n• Random Variables\n• Distribution and Density Functions\n• Conditional Probability\n• Bayes'Theorem\n• Joint Distribution\n• Concept of Independence Covariance and Correlation\n• Introductory Statistical Inference (Likelihood, MAP, etc.)\n• Concept of Entropy\n• Mutual Information and KL Divergence\n\n\nOptimization\n• Optimization\n• Function and Derivatives\n• Gradient Descent\n• Stochastic Gradient Descents\n• Convex Optimisation\n• Formulation and Optimality Conditions\n• ADAM Optimiser\n\n\nHands-on Demo 1: Linear Algebra using NumPy\n• Concepts of Linear Algebra and Probability Basics\n• Optimisation with Practical ML Applications"
   },
   {
     "objectID": "aiml-6-months-iitd-certificate.html#module-2-regression-methods",
     "href": "aiml-6-months-iitd-certificate.html#module-2-regression-methods",
-    "title": "6-Month Program - AI/ML for Industry",
+    "title": "6-Months Program - AI/ML for Industry",
     "section": "Module 2: Regression Methods",
     "text": "Module 2: Regression Methods\n• Simple and Multiple Linear Regression\n• Hands-on Demo 2: SLR/MLR\n• Least Squares Approach\n• Moving Beyond Linearity: Non-linear Regression\n• Hands-on Demo 3: NLR\n• Model Selection, Regularisation, and Bias-Variance Trade-off"
   },
   {
     "objectID": "aiml-6-months-iitd-certificate.html#module-3-classification-methods",
     "href": "aiml-6-months-iitd-certificate.html#module-3-classification-methods",
-    "title": "6-Month Program - AI/ML for Industry",
+    "title": "6-Months Program - AI/ML for Industry",
     "section": "Module 3: Classification Methods",
     "text": "Module 3: Classification Methods\n\nLogsitic Regression\n• Logistic Regression • Hands-on Demo 4: Logistic Regression\n\n\nDecision Tree\n• Introduction to Decision Trees\n• Random Forests, Bagging, and Boosting\n• Hands-on Demo 5: Random Forests\n• Interpretability of Machine Learning Models\n• Hyperplanes\n• Concept of Hyperplane Classifier\n\n\nSVM\n• Support Vector Machines, Kernel SVM • Hands-on Demo 6: SVM\n• Multi-class Classifiers\n\n\nClustering\n• Clustering Methods\n• Hands-on Demo 7: Clustering"
   },
   {
     "objectID": "aiml-6-months-iitd-certificate.html#module-4-deep-learning",
     "href": "aiml-6-months-iitd-certificate.html#module-4-deep-learning",
-    "title": "6-Month Program - AI/ML for Industry",
+    "title": "6-Months Program - AI/ML for Industry",
     "section": "Module 4: Deep Learning",
     "text": "Module 4: Deep Learning\n\nNeural Networks\n• Fundamentals of Neural Network and Feedforward Network \n• Concept of Training and Backpropagation\n• Hands-on Demo 8: ANN\n\n\nConvolutional Neural Networks\n• Fundamentals of Convolution\n• Convolutional Neural Network Architecture \n• Hands-on Demo 9: CNN\n\n\nRecurrent Neural Networks/LSTM\n• Introduction to Time Series and Sequential Data \n• Introduction to Language Modelling and NLP\n• Recurrent Neural Network and LSTM/GRU\n• Hands-on Demo 10\n\n\nGraph Neural Networks\n• Introduction to Graph Data\n• Graph Neural Network Architecture\n• Hands-on Demo 11"
   },
   {
     "objectID": "aiml-6-months-iitd-certificate.html#extra-topics",
     "href": "aiml-6-months-iitd-certificate.html#extra-topics",
-    "title": "6-Month Program - AI/ML for Industry",
+    "title": "6-Months Program - AI/ML for Industry",
     "section": "Extra Topics",
     "text": "Extra Topics\n\nTransformers\n• Concept of Transformers and its Application to NLP\n\n\nGenerative AI\n• Introduction to Generative AI and LLM Models Project: Deep Learning Application"
   },

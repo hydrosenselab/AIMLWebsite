@@ -2,7 +2,7 @@
 
 Training Course at IIT Delhi under the aegis of the [Yardi School of Artificial Intelligence, IIT Delhi](https://scai.iitd.ac.in/).
 
-<img src="hero-image.jpg" alt="Hero Image" width="100%"/>
+<img src="images/aiml-brochure-image.png" alt="Hero Image" width="100%"/>
 
 The "AI/ML for Industry" is a flagship training program offered by faculty members of the Indian Institute of Technology Delhi. The course is offered in multiple variants:
 

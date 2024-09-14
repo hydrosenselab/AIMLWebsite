@@ -1,11 +1,12 @@
 ---
-title: "6-Month Program - AI/ML for Industry"
+title: "6-Months Program - AI/ML for Industry"
 ---
 
-Details about the sponsored programme.
+![](images/aiml-brochure-image.png)
+
+[Registration Link and details about the programme](https://timespro.com/executive-education/iit-delhi-ai-and-machine-learning-for-industry)
 
 # Course Content
-
 
 ## Module 1: Mathematical Foundations for AI/ML
 
