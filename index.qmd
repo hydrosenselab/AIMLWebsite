@@ -6,7 +6,7 @@ Training Course at IIT Delhi under the aegis of the [Yardi School of Artificial 
 
 The "AI/ML for Industry" is a flagship training program offered by faculty members of the Indian Institute of Technology Delhi. The course is offered in multiple variants:
 
-- [6-month e-Vidya CEP Certificate](./evidya-certificate.qmd) (Weekend Classes for Industry Professionals)
+- [6-month e-Vidya CEP Certificate](./aiml-6-months-iitd-certificate.qmd) (Weekend Classes for Industry Professionals)
 - [3-Day or 5-Day Sponsored Training Program](./sponsored.qmd) (Government Agency or Company)
 - [3-Day Bootcamp](./bootcamp.qmd)(for Beginners)
 
