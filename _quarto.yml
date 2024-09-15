@@ -21,10 +21,10 @@ website:
             href: certificate-batch03.qmd
           - text: "5-Day Program for CAG/IAAS Officers [2024]"
             href: cag.qmd
-          - text: "1-Day Program for Young Presidents' Organization [2024]"
-            href: ypo.qmd
           - text: "6-Month Certificate Course [2024, Batch 02]"
             href: certificate-batch02.qmd
+          - text: "1-Day Program for Young Presidents' Organization [2024]"
+            href: ypo.qmd
           - text: "3-Day AI/ML Bootcamp [2023]"
             href: bootcamp-2023.qmd
           - text: "6-Month Certificate Course [2023, Batch 01]"
