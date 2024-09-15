@@ -1,5 +1,5 @@
 ---
-title: "Young Presidents' Organization"
+title: "Leadership Conclave: Data Science, Automation, and Smart Manufacturing"
 ---
 
-1-day programme for CEOs of Young Presidents' Organization.
+Sponsored Program for the CEOs of the Young Presidents' Organization.

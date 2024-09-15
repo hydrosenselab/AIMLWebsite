@@ -51,7 +51,7 @@ Explore the course types and past editions from the menu above to learn more abo
       <td>August 2024</td>
     </tr>
     <tr class="table-primary">
-      <th scope="row">[Young Presidents’ Organization](ypo.qmd)</th>
+      <th scope="row">[Leadership Conclave: Data Science, Automation, and Smart Manufacturing](ypo.qmd)</th>
       <td>Sponsored</td>
       <td>1-Day</td>
       <td>50</td>
