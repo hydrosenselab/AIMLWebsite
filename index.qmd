@@ -23,6 +23,64 @@ The course provides a deep understanding of AI and ML techniques and their real-
 
 Explore the course types and past editions from the menu above to learn more about each module.
 
+## Programs Completed
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Program</th>
+      <th scope="col">Type</th>
+      <th scope="col">Duration </th>
+      <th scope="col">Attendees </th>
+      <th scope="col">Completion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-primary">
+      <th scope="row">[CEP e-Vidya (Batch 03)](certificate-batch03.qmd)</th>
+      <td>By Enrolment</td>
+      <td>6-months</td>
+      <td>85</td>
+      <td>Ongoing</td>
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">[CAG/IAAS Officers](cag.qmd)</th>
+      <td>Sponsored</td>
+      <td>5-Days</td>
+      <td>20</td>
+      <td>August 2024</td>
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">[Young Presidents’ Organization](ypo.qmd)</th>
+      <td>Sponsored</td>
+      <td>1-Day</td>
+      <td>50</td>
+      <td>August 2024</td>
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">[CEP e-Vidya (Batch 02)](certificate-batch02.qmd)</th>
+      <td>By Enrolment</td>
+      <td>6-months</td>
+      <td>85</td>
+      <td>2024</td>
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">[3-Day AI/ML Bootcamp](bootcamp.qmd)</th>
+      <td>By Enrolment</td>
+      <td>6-months</td>
+      <td>20</td>
+      <td>2023</td>
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">[CEP e-Vidya (Batch 01)](certificate-batch01.qmd)</th>
+      <td>By Enrolment</td>
+      <td>6-months</td>
+      <td>85</td>
+      <td>2023</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Program Coordinators
 
