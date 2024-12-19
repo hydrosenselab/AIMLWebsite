@@ -1,5 +1,5 @@
 ---
-title: "6-Month Certificate Course [Batch 01]"
+title: "6-Month IIT Delhi Certificate Course: Artificial Intelligence and Machine Learning in Industry [Batch 01]"
 ---
 
 Details about the 2023, Batch 01 edition.

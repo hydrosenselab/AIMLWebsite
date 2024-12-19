@@ -1,4 +1,4 @@
-## Course Instructors
+## Core Course Instructors
 
 <img src="images/sandeep.png" alt="Sandeep Kumar Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
 <h3>Dr. Sandeep Kumar</h3>
@@ -22,6 +22,15 @@ He has been recognised for his scientific contributions, having received Young S
 
 ---
 
+## Additional Course Instructors and Guest Lecturers
+
+<img src="placeholder-image.jpg" alt="XYZ Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
+<h3>Dr. XYZ </h3>
+<p><strong>Designation</strong>: Assistant Professor, Department of Electrical Engineering & Yardi School of Artificial Intelligence, IIT Delhi</p>
+<p><strong>Contact</strong>: ksandeep@iitd.ac.in</p>
+<p>XYZ
+</p>
+
 ## Teaching Assistants
 
 <img src="placeholder-image.jpg" alt="TA Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
@@ -38,6 +47,12 @@ He has been recognised for his scientific contributions, having received Young S
 
 <div style="clear: both;"></div>
 
+<img src="placeholder-image.jpg" alt="TA Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
+<h3>Dr. Samvedya S</h3>
+<p><strong>Designation</strong>: Principal Project Scientist, Department of Civil Engineering, IIT Delhi</p>
+<p><strong>Bio</strong>: Dr. Samvedya specializes in developing AI and Remote Sensing Applications</p>
+
+<div style="clear: both;"></div>
 
 <img src="placeholder-image.jpg" alt="TA Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
 <h3>Mohit Kataria</h3>
@@ -56,23 +71,7 @@ He has been recognised for his scientific contributions, having received Young S
 <img src="placeholder-image.jpg" alt="TA Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
 <h3>Anagha P</h3>
 <p><strong>Designation</strong>: Ph.D. Scholar, IIT Delhi</p>
-<p><strong>Bio</strong>: Test.</p>
+<p><strong>Bio</strong>: Specializes in Deep Learning applications in Earth Sciences. </p>
 
 <div style="clear: both;"></div>
 
-
----
-
-## Guest Lecturers
-
-<img src="placeholder-image.jpg" alt="Guest Lecturer Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
-<h3>Guest Lecturer 1</h3>
-<p><strong>Designation</strong>: Guest Lecturer</p>
-
-<div style="clear: both;"></div>
-
-<img src="placeholder-image.jpg" alt="Guest Lecturer Photo" style="border-radius: 50%; width: 150px; float: left; margin-right: 20px;">
-<h3>Guest Lecturer 2</h3>
-<p><strong>Designation</strong>: Guest Lecturer</p>
-
-<div style="clear: both;"></div>

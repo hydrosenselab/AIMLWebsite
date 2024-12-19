@@ -11,7 +11,7 @@ The "AI/ML for Industry" is a flagship training program offered by faculty membe
 The course provides a deep understanding of AI and ML techniques and their real-world applications. This program equips participants with the skills needed to apply AI/ML in business and industry.
 
 
-<div class="alert alert-dismissible alert-secondary"> If you desire a sponsored program tailored to your organization’s needs, please email the program coordinators to discuss feasibility. In the past, we have delivered tailored programs for organizations such as [Comptroller and Auditor General of India (CAG/IAAS Officers)](cag.qmd), [Centre For Railway Information Systems (CRIS) Engineers](cris.qmd), and [Young Presidents' Organization (YPO)](ypo.qmd) </div>
+<div class="alert alert-dismissible alert-secondary"> If you desire a sponsored program tailored to your organization’s needs, please email the program coordinators. In the past, we have designed and delivered tailored programs for government and private organizations such as [Comptroller and Auditor General of India (CAG/IAAS Officers)](cag.qmd), [Centre For Railway Information Systems (CRIS) Engineers](cris.qmd), and [Young Presidents' Organization (YPO)](ypo.qmd) </div>
 
 
 ## Program Highlights
@@ -37,6 +37,13 @@ Explore the course types and past editions from the menu above to learn more abo
   </thead>
   <tbody>
     <tr class="table-primary">
+      <th scope="row">[CEP e-Vidya (Batch 04)](certificate-batch04.qmd)</th>
+      <td>By Enrolment</td>
+      <td>6-months</td>
+      <td>70</td>
+      <td>Ongoing</td>
+    </tr>
+    <tr class="table-primary">
       <th scope="row">[CEP e-Vidya (Batch 03)](certificate-batch03.qmd)</th>
       <td>By Enrolment</td>
       <td>6-months</td>
@@ -58,7 +65,7 @@ Explore the course types and past editions from the menu above to learn more abo
       <td>Aug 2024</td>
     </tr>
     <tr class="table-primary">
-      <th scope="row">[Leadership Conclave](ypo.qmd)</th>
+      <th scope="row">[YPO Leadership Conclave](ypo.qmd)</th>
       <td>Sponsored</td>
       <td>1-Day</td>
       <td>50</td>
@@ -109,4 +116,14 @@ Explore the course types and past editions from the menu above to learn more abo
 
 ::: {style="clear: both;"}
 :::
+
+## Published Textbooks
+The instructor team has published multiple textbooks and large number of research publications.
+
+<img src="images/PythonWE-cover.jpg" alt="Python for Water and Environment Textbook Photo" 
+style="border-radius: 0%; width: 250px; float: left; margin-right: 20px;"/>
+
+<img src="images/GATE-AIMLBook-Cover.png" alt="Python for Water and Environment Textbook Photo" 
+style="border-radius: 0%; width: 292px; float: left; margin-right: 20px;"/>
+
 <img src="iit-delhi-logo.png" alt="IIT Delhi Logo" style="float: right; width: 100px; margin-top: 10px;">
